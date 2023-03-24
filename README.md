@@ -40,7 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Eventcolumn
 
-เก็บข้อมูล column ที่ใช้แสดงในตารางหลัก รวมถึง return ตารางหลัง
+เก็บข้อมูล column ที่ใช้แสดงในตารางหลัก รวมถึง return ตารางหลัก
 
 ### Form และ Form2
 
